@@ -1,0 +1,15 @@
+rstudio-desktop-bin
+samsung-unified-driver
+samsung-unified-driver-common
+samsung-unified-driver-printer
+samsung-unified-driver-scanner
+timeshift
+warpinator
+webapp-manager
+brave-bin
+cwm
+octopi
+yaru-gtk-theme
+gotop
+modprobed-db
+
