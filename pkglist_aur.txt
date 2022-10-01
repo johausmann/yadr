@@ -12,4 +12,6 @@ octopi
 yaru-gtk-theme
 gotop
 modprobed-db
+shellcaster
+mellowplayer
 

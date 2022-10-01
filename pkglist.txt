@@ -89,7 +89,6 @@ gzip
 helvum
 hwinfo
 inetutils
-intltool
 jgmenu
 jpeg-archive
 jpegoptim
@@ -113,13 +112,10 @@ mate-polkit
 mate-power-manager
 mediainfo
 mediathekview
-mellowplayer
 meson
 mlocate
 monolith
 mpv
-mtools
-nasm
 neovim
 network-manager-applet
 networkmanager
@@ -165,7 +161,6 @@ reflector
 restic
 seahorse
 sed
-shellcaster
 shellcheck
 simplescreenrecorder
 spectrwm
